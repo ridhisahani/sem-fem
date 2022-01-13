@@ -27,6 +27,6 @@ Outputs folder:
 •	Image analysis measurements (.xlsx)
 •	Calculated stiffness measurements (.xlsx)
 
-Code developed by Ridhi Sahani and published in.....
-Please cite.... when using this code. 
+Code developed by Ridhi Sahani and published in the Journal of Applied Physiology.
+Citation will be updated upon publication, see pre-print: https://www.biorxiv.org/content/10.1101/2021.04.07.438870v1
 Contact rs8te@virginia.edu with and questions or comments.
